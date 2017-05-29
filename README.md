@@ -1,2 +1,7 @@
 # hello-world
-A short description
+
+Howdy!
+
+I'm Ben,
+
+I've just finished a course in Ruby and want to learn more programming languages!
